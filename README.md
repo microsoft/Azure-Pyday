@@ -67,6 +67,7 @@
 
 > Watch now [DevOps Fundamentals on Channel 9](https://channel9.msdn.com/Series/DevOps-Fundamentals)
 
+### 🎉 Check out our PyCon 2020 Content Board [here](https://boards.microsoft.com/public/prism/104927?token=688e234500&ocid=AID3006292)
 
 ### Additional Resources
 
