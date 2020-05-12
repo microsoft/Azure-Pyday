@@ -26,7 +26,7 @@
   - [Explore natural language processing](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/?wt.mc_id=AID3011242_QSG_EML_426732)
 
 
-> 📺 Watch now [Python for Beginners Video Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 
+#### 📺 Watch now [Python for Beginners Video Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 
 
 
 - Workshops & Tutorials
