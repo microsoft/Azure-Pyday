@@ -54,7 +54,7 @@
   - [Large-Scale Serverless Machine Learning Inference with Azure Functions](https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7)
   - [End-to-End Serverless Real-Time IoT with Python](https://dev.to/azure/end-to-end-serverless-real-time-iot-with-python-4i2b)
 
-### DevOps(Beginner)
+### DevOps
 
 - [Product Documentation on Docs](https://docs.microsoft.com/en-in/azure/?product=devops&amp;wt.mc_id=AID3011242_QSG_EML_426737)
 
@@ -69,7 +69,7 @@
 
 ### 📂 Check out our PyCon 2020 Content Board [here](https://boards.microsoft.com/public/prism/104927?token=688e234500&ocid=AID3006292)
 
-### Additional Resources
+### Additional Resources ✔️
 
 - **[Azure Account](https://azure.microsoft.com/?WT.mc_id=-github-arsaha)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
