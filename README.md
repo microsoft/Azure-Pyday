@@ -24,6 +24,8 @@
   - [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/?wt.mc_id=AID3011242_QSG_EML_426730)
   - [Explore conversational AI](https://docs.microsoft.com/en-us/learn/paths/explore-conversational-ai/?wt.mc_id=AID3011242_QSG_EML_426731)
   - [Explore natural language processing](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/?wt.mc_id=AID3011242_QSG_EML_426732)
+  - [Create Intelligent Bots with the Azure Bot Service](https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/)
+  - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/)
 
 
 #### 📺 Watch now [Python for Beginners Video Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 
